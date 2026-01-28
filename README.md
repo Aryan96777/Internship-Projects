@@ -14,3 +14,6 @@ A cloud-based messaging application.
 ## How to Run
 1. Clone this repository.
 2. Open `index.html` (Tracker) or `chat.html` (Chat) in any web browser.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8287a7ea-56ee-4cbc-acd4-53e8f29ab849" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ad2eb54b-3b9b-4e98-bacb-2fba9e4f6e1f" />
